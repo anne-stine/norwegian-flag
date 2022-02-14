@@ -1,0 +1,32 @@
+/* Font Styling */
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* The Norwegian Flag */
+
+.flag-color-red {
+ fill: #BA0C2F;
+}
+
+.flag-color-white {
+    fill: white;
+}
+
+.flag-color-blue {
+    fill: #00205B;
+}
+
+.flag-text {
+    fill: white;
+    transform: rotate(30deg);
+    font-size: 45px;
+}
